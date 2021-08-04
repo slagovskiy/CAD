@@ -1,2 +1,3 @@
 # Furniture
-Drawings and sketches of furniture
+
+![logo](https://raw.githubusercontent.com/slagovskiy/CAD/master/logo.png)
